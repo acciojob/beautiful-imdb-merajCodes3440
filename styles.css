@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+img{
+	height:100%;
+	width:100%;
+	opecity:0.6;
+}
